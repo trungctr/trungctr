@@ -4,8 +4,8 @@
 </p>
 <!-- <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a)" alt="TrungCTR_logo_trilogy-Layout3" width="100">
-<!--   ![new_logo_trilogy-Layout3](https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a) -->
+  <img src="https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a" alt="TrungCTR_logo_trilogy-Layout3" width="120">
+<!--   ![new_logo_trilogy-Layout3](https://github.com/trungctr/trungctr/assets/86878234/d7144f84-4ea1-44fe-b617-661ebadeab37) -->
 </p>
 
 <h2 align="center">Technology Stack</h2>
@@ -33,8 +33,8 @@
 
 💬 Reach me on https://trungctr.com
 
-Link youtube: https://www.youtube.com/c/TipsJavascript/
 <!--
+Link youtube: https://www.youtube.com/c/TipsJavascript/
 ## 👉 Khóa học Nodejs Backend eCommerce (30.000 VNĐ)
 
 LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
