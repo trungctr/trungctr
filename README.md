@@ -1,8 +1,14 @@
-<h2 align="center">Hi there!! welcome to my chanel ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
-
 <p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+  
+<h2 align="center">Hi there!! welcome to my chanel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" margin-bottom= "-20px" padding-bottom="-20px" width="100"></h2>
+</p>
+<!-- <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
+<p align="center">
+  <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a)" alt="TrungCTR_logo_trilogy-Layout3" width="100">
+<!--   ![new_logo_trilogy-Layout3](https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a) -->
+</p>
+
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -25,6 +31,22 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
+💬 Reach me on https://trungctr.com
+
+Link youtube: https://www.youtube.com/c/TipsJavascript/
+<!--
+## 👉 Khóa học Nodejs Backend eCommerce (30.000 VNĐ)
+
+LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
+
+1 - [Welcome, welcome, welcome](https://youtu.be/5keK7PRH9pE)
+
+2 - [Những folders và packages cần thiết khi khởi tạo Project](https://youtu.be/qpIfPitAIX0)
+
+3 - [Connect MongoDB to Node.js Using Mongoose và 7 điều lưu ý](https://youtu.be/TiMiJazU4Pc)
+
+4 - [Cách triển khai env cho các level khác nhau](https://youtu.be/jnxsMU5hjqs)
+-->
 
 
 <!--
