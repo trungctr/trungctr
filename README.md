@@ -4,7 +4,8 @@
 </p>
 <!-- <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <p align="center">
-  <img src="https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a" alt="TrungCTR_logo_trilogy-Layout3" width="120">
+<!--   <img src="https://github.com/anonystick/anonystick/assets/86878234/bc7fc8d5-6b8b-4049-bbdd-c29656d8fc7a" alt="TrungCTR_logo_trilogy-Layout3" width="120"> -->
+  <img src="https://github.com/trungctr/trungctr/assets/86878234/b85037be-63ac-423c-baf7-40ed8e289a20" alt="TrungCTR_logo_trilogy-Layout3" width="120">
 <!--   ![new_logo_trilogy-Layout3](https://github.com/trungctr/trungctr/assets/86878234/d7144f84-4ea1-44fe-b617-661ebadeab37) -->
 </p>
 
